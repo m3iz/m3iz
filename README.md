@@ -1,5 +1,8 @@
 # 🛠️ Nikita Saveliev – Embedded Developer 
-![Welcome](https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=ecf05e478mvpyjewqis8h3msxr4gpq524jnpw814z3uukeff&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<!-- -->
+<p align="center">
+  <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=ecf05e478mvpyjewqis8h3msxr4gpq524jnpw814z3uukeff&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome">
+</p>
 
 ## 👋 Welcome!
 
