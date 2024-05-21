@@ -10,7 +10,7 @@
 ## 👋 About me:
 
 I am Nikita Saveliev, a graduate of the Bauman Moscow State Technical University (BMSTU) with a degree in Design and Technology of Electronic Equipment Manufacturing. I specialize in embedded systems development and have extensive experience working with microcontrollers, RTOS, and low-level programming.
-
+![trophy](https://github-profile-trophy.vercel.app/?username=m3iz)
 ## 🔧 Skills
 
 - **Microcontrollers:**
