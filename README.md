@@ -1,10 +1,13 @@
-# 🛠️ Nikita Saveliev – Embedded Developer 
-<!-- -->
+<!--
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+-->
 <p align="center">
   <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=ecf05e478mvpyjewqis8h3msxr4gpq524jnpw814z3uukeff&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome">
 </p>
 
-## 👋 Welcome!
+## 👋 About me:
 
 I am Nikita Saveliev, a graduate of the Bauman Moscow State Technical University (BMSTU) with a degree in Design and Technology of Electronic Equipment Manufacturing. I specialize in embedded systems development and have extensive experience working with microcontrollers, RTOS, and low-level programming.
 
@@ -45,10 +48,6 @@ I am Nikita Saveliev, a graduate of the Bauman Moscow State Technical University
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-purple)
  (AutoCad, Splan, Altium Designer, KiCad, DipTrace, Proteus, Inventor)
 
-## 📫 Contact
-
-If you have any project proposals or questions, please reach out to me on Telegram: [@m3izz](https://t.me/m3izz)
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3iz&show_icons=true&theme=radical)
@@ -72,4 +71,8 @@ If you have any project proposals or questions, please reach out to me on Telegr
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Personal Website](https://your-website.com)
 
+## 📫 Contact
+
+If you have any project proposals or questions, please reach out to me on:  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m3izz)
+ 
 Thank you for visiting my profile! I look forward to new opportunities and exciting projects.
