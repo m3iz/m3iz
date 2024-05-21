@@ -2,9 +2,12 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
--->
+
 <p align="center">
   <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=ecf05e478mvpyjewqis8h3msxr4gpq524jnpw814z3uukeff&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome">
+</p>-->
+<p align="center">
+  <img src="https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif?cid=ecf05e47btdg9bw5l0xbnun585jbnbulugyhqc9qn1e3v8ox&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome">
 </p>
 
 ## 👋 About me:
