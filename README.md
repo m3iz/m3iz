@@ -69,7 +69,7 @@ I am Nikita, a graduate of the Bauman Moscow State Technical University (BMSTU) 
 ## 💬 Random Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<--## 🔗 Social Links
+<!--## 🔗 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Personal Website](https://your-website.com) -->
