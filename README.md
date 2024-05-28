@@ -2,6 +2,7 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+https://w.forfun.com/fetch/5c/5ce1794127b41a60cebda04164c168f8.jpeg
 
 <p align="center">
   <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=ecf05e478mvpyjewqis8h3msxr4gpq524jnpw814z3uukeff&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome">
